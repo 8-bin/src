@@ -30,9 +30,9 @@
     <table class="table">
         <thead>
         <tr class="table-dark">
-            <th>호똥</th>
+            <th>예솔</th>
             <th>요아정</th>
-            <th>맛있지?</th>
+            <th>통수 오바야 ㅋㅋ</th>
         </tr>
         </thead>
         <tbody>
